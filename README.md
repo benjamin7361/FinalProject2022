@@ -1,3 +1,2 @@
 # FinalProject2022
-
-# Introduction
+This repository goes through my Final Year Project completed during my final year in the National College of Ireland. The project topic was "An analysis of the casuese and prevention of diabetes". This paper ncomposes of; statistical anlaysis of data used during the project, machine learning algorithms and artificial intelligence primarily using Neural Networks. This paper will provide the coding scripts and snaps tio understand the background of the project. The aims of the project were to explore 
