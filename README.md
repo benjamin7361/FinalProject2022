@@ -8,5 +8,3 @@ I had collected two different datasets from Kaggle an online machine learning co
 During the projects Data Modelling phase i had carried out three different classification classifiers in RStudio. From using the following classifiers; Decision Trees, Random Forest and Naive Bayes I had collected a total of 12 different results using the above data subsets. 
 # Jupyter Notebooks:
 The Neyral Network implementations were carried out in Jupyter Notebooks using Python programming language. 
-# Poster
-
