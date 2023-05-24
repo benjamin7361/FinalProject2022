@@ -9,5 +9,4 @@ During the projects Data Modelling phase i had carried out three different class
 # Jupyter Notebooks:
 The Neyral Network implementations were carried out in Jupyter Notebooks using Python programming language. 
 # Poster
-![image](https://github.com/benjamin7361/FinalProject2022/assets/119607903/cdb08b96-7763-4bf0-8be8-226ddfb99769)
 
