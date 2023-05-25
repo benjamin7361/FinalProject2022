@@ -1,4 +1,4 @@
-# FinalProject2022:
+# FinalProject2022
 This repository summarises the Final Year Project of my BSc at the National College of Ireland. The project topic was "An analysis of the causes and prevention of diabetes". This repository contains; statistical anlaysis of data used during the project, machine learning algorithms and artificial intelligence / Neural Network models used to carry out the analysis of clinical and lifestyle data related to diabetes. The repository also contains the coding scripts, report and poster to help understand the background to the project. 
 # Project Aims:
 The aims of the project included evaluation of the performance of different model classifiers in helping predict the liklihood of diabetes given certain data. Using statistical analysis to understand the importance of various features and to understand what factors had the most effect on predicting diabetes. The project's research question was; "Given relevant data and the applictaion of classifiers on that data, what is the liklihood of someone being diagnosed as a diabetic?".  
